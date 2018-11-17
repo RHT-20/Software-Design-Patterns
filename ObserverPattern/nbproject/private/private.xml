@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Asus/Documents/SDP/My%20Implementations/ObserverPattern/src/Observers/ForecastWeather.java</file>
+            <file>file:/C:/Users/Asus/Documents/SDP/My%20Implementations/ObserverPattern/src/Observable/Subject.java</file>
+            <file>file:/C:/Users/Asus/Documents/SDP/My%20Implementations/ObserverPattern/src/Observers/WeatherStatistics.java</file>
+            <file>file:/C:/Users/Asus/Documents/SDP/My%20Implementations/ObserverPattern/src/Observers/DisplayData.java</file>
+            <file>file:/C:/Users/Asus/Documents/SDP/My%20Implementations/ObserverPattern/src/Observers/Observer.java</file>
+            <file>file:/C:/Users/Asus/Documents/SDP/My%20Implementations/ObserverPattern/src/Main/WeatherStation.java</file>
+            <file>file:/C:/Users/Asus/Documents/SDP/My%20Implementations/ObserverPattern/src/Observers/CurrentWeather.java</file>
+            <file>file:/C:/Users/Asus/Documents/SDP/My%20Implementations/ObserverPattern/src/Observable/WeatherData.java</file>
+        </group>
+    </open-files>
+</project-private>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Asus/Documents/SDP/My%20Implementations/StrategyPattern/src/Ducks/Duck.java</file>
+            <file>file:/C:/Users/Asus/Documents/SDP/My%20Implementations/StrategyPattern/src/QuackBehaviour/QuackBehaviour.java</file>
+            <file>file:/C:/Users/Asus/Documents/SDP/My%20Implementations/StrategyPattern/src/FlyBehaviour/FlyBehaviour.java</file>
+            <file>file:/C:/Users/Asus/Documents/SDP/My%20Implementations/StrategyPattern/src/FlyBehaviour/NoFly.java</file>
+            <file>file:/C:/Users/Asus/Documents/SDP/My%20Implementations/StrategyPattern/src/QuackBehaviour/Quack.java</file>
+            <file>file:/C:/Users/Asus/Documents/SDP/My%20Implementations/StrategyPattern/src/FlyBehaviour/CanFly.java</file>
+            <file>file:/C:/Users/Asus/Documents/SDP/My%20Implementations/StrategyPattern/src/Main/DuckSimulator.java</file>
+            <file>file:/C:/Users/Asus/Documents/SDP/My%20Implementations/StrategyPattern/src/Ducks/WoodenDuck.java</file>
+            <file>file:/C:/Users/Asus/Documents/SDP/My%20Implementations/StrategyPattern/src/Ducks/MallarDuck.java</file>
+            <file>file:/C:/Users/Asus/Documents/SDP/My%20Implementations/StrategyPattern/src/Ducks/RubberDuck.java</file>
+            <file>file:/C:/Users/Asus/Documents/SDP/My%20Implementations/StrategyPattern/src/QuackBehaviour/Squack.java</file>
+            <file>file:/C:/Users/Asus/Documents/SDP/My%20Implementations/StrategyPattern/src/Ducks/RedHeadDuck.java</file>
+            <file>file:/C:/Users/Asus/Documents/SDP/My%20Implementations/StrategyPattern/src/QuackBehaviour/MuteQuack.java</file>
+        </group>
+    </open-files>
+</project-private>
